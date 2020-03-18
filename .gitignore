@@ -1,0 +1,7 @@
+/node_modules
+babel.config.js
+gulpfile.js
+*.json
+webpack.config.js
+/dist
+/src/Util/settings.js
