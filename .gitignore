@@ -6,3 +6,4 @@ webpack.config.js
 /dist
 /src/Util/settings.js
 .idea
+.gitignore
